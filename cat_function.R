@@ -8,5 +8,6 @@ cat_function <- function(love=TRUE){
 }
 
 dog_function<-function(lovemore = TRUE) {
-  
+  if (lovemore == TRUE) {
+    print("Hell yeah!")
 }
