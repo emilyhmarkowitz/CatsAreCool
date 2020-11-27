@@ -1,6 +1,18 @@
-# Example Repository
+# Example Repository for an R Script
 
 Based off the work by https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
+
+> Code is still in development
+
+**Emily Markowitz** (Emily.Markowitz AT noaa.gov)
+
+Alaska Fisheries Science Center, 
+
+National Marine Fisheries Service, 
+
+National Oceanic and Atmospheric Administration,
+
+Seattle, WA 98195
 
 ## NOAA README
 
