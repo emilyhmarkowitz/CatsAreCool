@@ -1,6 +1,6 @@
 # Example Repository for an R Script
 
-Based off the work by: https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
+Based off the work by https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
 
 > Code is still in development
 
